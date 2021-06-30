@@ -1,0 +1,10 @@
+body {
+ background-color: black;
+}
+
+.card-post {
+
+  text-align: center !important;
+  padding-left: 35% ;
+  color: white;
+}
